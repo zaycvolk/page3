@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+
+footer {
+  padding: 65px 0px 80px 80px;
+  background: 
+      repeating-linear-gradient(190deg, rgba(255, 0, 0, 0.5) 40px,
+        rgba(255, 153, 0, 0.5) 80px, rgba(255, 255, 0, 0.5) 120px,
+        rgba(0, 255, 0, 0.5) 160px, rgba(0, 0, 255, 0.5) 200px,
+        rgba(75, 0, 130, 0.5) 240px, rgba(238, 130, 238, 0.5) 280px,
+        rgba(255, 0, 0, 0.5) 300px),
+      repeating-linear-gradient(-190deg, rgba(255, 0, 0, 0.5) 30px,
+        rgba(255, 153, 0, 0.5) 60px, rgba(255, 255, 0, 0.5) 90px,
+        rgba(0, 255, 0, 0.5) 120px, rgba(0, 0, 255, 0.5) 150px,
+        rgba(75, 0, 130, 0.5) 180px, rgba(238, 130, 238, 0.5) 210px,
+        rgba(255, 0, 0, 0.5) 230px),
+      repeating-linear-gradient(23deg, red 50px, orange 100px,
+        yellow 150px, green 200px, blue 250px,
+        indigo 300px, violet 350px, red 370px);
+margin: 30px 0px 10px 0px;
+border: 7px black solid;
+border-radius: 5px;
+}
+
+header {
+  background-color: rgba(0, 132, 255, 0.781);
+  padding: 40px 0px 40px 25px;
+  border: rgba(133, 133, 133, 0.774) 10px groove;
+}
+
+.link-header {
+  border: white 5px solid;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: rgba(94, 94, 94, 0.774);
+  font-size: 80px;
+  border: rgb(0, 225, 255) 10px inset;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 60px;
+  color: rgb(255, 255, 255);
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+body {
+ background-image:url(https://bipbap.ru/wp-content/uploads/2019/06/1b66195d29307b23c5bfc82608bad987-640x476.jpg);
+}
+
+div {
+ background-image:url(https://i.pinimg.com/originals/e3/71/10/e371109467c6043716756ae90771b078.jpg);
+ border: rgb(0, 225, 255) 10px inset;
+}
